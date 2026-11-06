@@ -33,6 +33,7 @@
 
 ## Hozir
 
+- CSU (Cyber Security Uzbekistan) universitetida 1-kurs talabasi
 - Tanaffus IT School'da dasturlash repetitori va mentor
 - Bozorcha va Navbatchi AI ustida ishlayapman
 - Pentest bo'yicha bilimimni chuqurlashtiryapman
